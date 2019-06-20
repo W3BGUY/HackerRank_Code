@@ -3,6 +3,9 @@
 ### 
 # ----------------------------
 ## 2019-06-20 (v1.6.20-#)
+- (v1.6.20-2):
+    - Charles Bastian <Charles@CharlesBastian.com>
+        - Added first 30 Days of Code challenge.
 - (v1.6.20-1):
     - Charles Bastian <Charles@CharlesBastian.com>
         - Created repo.
