@@ -2,6 +2,13 @@
 ### This is the Repo for the code challenges on HackerRank.
 ### 
 # ----------------------------
+## 2019-07-01 (v1.7.1-#)
+- (v1.7.1-1):
+    - Charles Bastian <Charles@CharlesBastian.com>
+        - Added 30 Days of Code challenge day 09
+        - Added 30 Days of Code challenge day 10
+        - Added 30 Days of Code challenge day 11
+---
 ## 2019-06-28 (v1.6.28-#)
 - (v1.6.28-1):
     - Charles Bastian <Charles@CharlesBastian.com>
